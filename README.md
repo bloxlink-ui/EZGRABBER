@@ -6,6 +6,15 @@
 
 EZGRABBER is a fast, lightweight stealer written in C#. The collected data is transferred through discord webhooks.
 
+
+
+
+
+
+
+
+
+
 **DISCLAIMER**
 
 This program, developed by ezgrabb, is intended solely for educational purposes, to demonstrate the vulnerabilities of computer systems and to promote awareness of cybersecurity. The program should only be used in controlled environments with explicit permission from the system owner.
@@ -43,7 +52,45 @@ The author of this program is not liable for any damage, harm, or legal conseque
 
 
 
+**Features**
+
+
+**Captures Passwords from 10+ Browsers.**
+**Captures Cookies from 10+ Browsers.**
+**Captures Discord Tokens.**
+**Captures Roblox Cookies.**
+**Captures Minecraft Session Files.**
+**Captures Machine Info.**
+**Captures Webcam Photos.**
+**Captures IP Address.**
+**Captures Screenshot(s) of All Monitors.**
+**Captures Wallets.**
+**Captures Telegram Sessions**.
+**Blocks AV Sites (Buggy).**
+**Adds itself to Startup.**
+**Anti-Virtual Machine.**
+**Obfuscation**.
+**Self Destruct.**
 
 
 
-8
+**Customizations**
+
+**Custom Payload Icon.**
+**Custom Assembly Information**.
+**Custom File Name.**
+
+
+
+
+
+
+
+
+
+
+
+**STAY UPDATED**
+
+
+Please consider starring this repository if you found this project useful. By starring this repository, you help others discover it, and it shows the developer how many people are interested in this project. Additionally, click on the "Watch" button located at the top of the repository page to receive notifications for the latest updates and features added to the project. Thank you for your support!
